@@ -1,0 +1,39 @@
+.visible {
+  background-color: darkgray;
+  width: 300px;
+  height: 100px;
+  border: 1px dotted firebrick;
+  overflow: visible;
+}
+
+.oculto {
+  background-color: darkgray;
+  width: 300px;
+  border: 1px dotter honeydew;
+  overflow: hidden;
+}
+
+.barra {
+  background-color: darkgray;
+  width: 300px;
+  height: 100px;
+  border: 1px dotter hotpink;
+  overflow: scroll;
+}
+
+.automatico {
+  background-color: darkgray;
+  width: 300px;
+  height: 100px;
+  border: 1px dotter hotpink;
+  overflow: auto;
+}
+
+.doble {
+  background-color: darkcyan;
+  width: 300px;
+  height: 100px;
+  border: 1px dotted rgb(255, 0, 0);
+  overflow-y: hidden;
+  overflow-x: scroll;
+}

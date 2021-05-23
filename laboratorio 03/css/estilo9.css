@@ -1,0 +1,28 @@
+i {
+  font-size: 30px;
+}
+
+.fa-instagram-square {
+  font-size: 50px;
+  color: coral;
+}
+
+.fa-youtube {
+  font-size: 40px;
+  color: red;
+}
+
+.fa-facebook-f {
+  font-size: 40px;
+  color: #3b5998;
+}
+
+.fa-facebook-messenger {
+  font-size: 50px;
+  color: #0084ff;
+}
+
+.fa-twitter-square {
+  font-size: 40px;
+  color: #1da1f2;
+}
